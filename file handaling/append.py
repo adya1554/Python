@@ -13,4 +13,4 @@ filen = 'D:\Python\file handaling\append.py'
 if os.path.exists(filen):
     print('path exists')
 else:
-    print('not exist')
+    print('not  exist')
