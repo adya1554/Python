@@ -1,5 +1,5 @@
 import os 
-
+#we use linux os
 
 with open('D:/python/file handaling/games', 'at') as ff:
     # containt =)
