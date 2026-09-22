@@ -1,8 +1,8 @@
-# stud1 = {
-#     'maths': 80.6,'eng': 76,'phy': 90  }
+stud1 = {
+    'maths': 80.6,'eng': 76,'phy': 90  }
 
-# # print(stud1['phy'])
-# # print(stud1.get('chem'))
+print(stud1['phy'])
+print(stud1.get('chem'))
 
 # emp1 = {'id': 10012, 'name': 'Aditya', 'salary': 18000}
 # # print(emp1.get('phone', 12345678))
