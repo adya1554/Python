@@ -1,5 +1,5 @@
 import os 
-
+#we use linux os
 
 with open('D:/python/file handaling/games', 'at') as ff:
     # containt =)
@@ -13,4 +13,4 @@ filen = 'D:\Python\file handaling\append.py'
 if os.path.exists(filen):
     print('path exists')
 else:
-    print('not exist')
+    print('not  exist')
